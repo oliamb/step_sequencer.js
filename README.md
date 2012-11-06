@@ -6,7 +6,7 @@ At this time, it works only on Chrome.
 
 ## Example
 
-'''html
+```html
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN">
 <html>
 <head>
@@ -44,7 +44,7 @@ At this time, it works only on Chrome.
   </script>
 </body>
 </html>
-'''
+```
 
 ## License
 
